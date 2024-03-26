@@ -5,4 +5,4 @@
 - 🌱 I’m have learnt all of the above languages and currently mastering some on the list.
 - 💞️ I’m looking to collaborate on any projects regarding the above programming languages or any fields mentioned above.
 - ✨ Reach out to me via  X, Fiverr, Upwork or my website.
-- 🌱 Looking forward to working with you on your next Software/SaaS/digital marketing or Ecommerce project.
+- 🌱 Looking forward to working with you on your next Software/ SaaS / data analysis / machine learning / digital marketing or Ecommerce project.
