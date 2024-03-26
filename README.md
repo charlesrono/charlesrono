@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charlesrono
 - 👀 I’m interested and self-taught on python, SQL, Javascript, Typescript, Kotlin, Swift, Ruby, Rust and Golang
 - ✨ I'm also an avid E-commerce Consultant specialized in Amazon,shopify, E-commerce ads and E-commerce Marketing overall.
-- ✨ I'm also a digital marketing specialist maintaining an E-commerce blog running ads,optimizing SEO and Backlinks.
+- ✨ I'm also a digital marketing specialist maintaining an E-commerce blog, keyword researching, copywriting ,running ads,optimizing SEO and Backlinks.
 - 🌱 I’m have learnt some of the above languages and currently learning others on the list.
 - 💞️ I’m looking to collaborate on any projects regarding the above languages or any interests mentioned above.
 - ✨ Reach out to me via  X, Fiverr ,Upwork or my website.
