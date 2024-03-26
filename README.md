@@ -3,5 +3,5 @@
 - ✨ I'm also an avid E-commerce guru specialized in Amazon,shopify and E-commerce Marketing overall.
 - ✨ I'm also a digital marketing specialist maintaining an E-commerce blog optimizing SEO and Backlinks.
 - 🌱 I’m have learnt some of the above languages and currently learning others on the list.
-- 💞️ I’m looking to collaborate on any projects regarding the above languages.
+- 💞️ I’m looking to collaborate on any projects regarding the above languages or any interests mentioned above.
 - ✨ Reach out to me via  X, Fiverr ,Upwork or my website.
