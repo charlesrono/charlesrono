@@ -7,6 +7,6 @@
 - ✨ Regarding  graphic design,I design logos and E-commerce product mockups. Visit my website to learn more about this skill.
 - 🌱 I’m have learnt all of the above languages and currently mastering some on the list.
 - 💞️ I’m looking to collaborate on any projects regarding the above programming languages or any fields mentioned above.
-- 🌱 Looking forward to working with you on your next Software/ SaaS /digital marketing / blog / Graphic design or Ecommerce project.
+- 🌱 Looking forward to working with you on your next Software/ Startup / SaaS /digital marketing / blog / Graphic design or Ecommerce project.
 - ✨ I don't use Linkedin, Instagram or any other social media platforms except as marketing Tools. I am exclusively on X.
-- ✨ Reach out to me via  X, Fiverr, Upwork or my website.
+- ✨ Reach out to me via  X, My Fiverr platforms,My Upwork platforms or my website.
