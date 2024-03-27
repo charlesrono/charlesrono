@@ -4,7 +4,7 @@
 - ✨ Regarding E-commerce I am an E-commerce Consultant consulting and offering services regarding Amazon, Shopify and E-commerce Marketing overall.
 - ✨ Regarding Digital Marketing I am a  digital marketing specialist consulting and offering digital marketing services currently running two blogs an E-commerce Blog and a  Finance blog, keyword researching, copywriting , running ads, optimizing SEO, Backlinks, Newsletters and selling digital products via both.
 - ✨ Regarding Software development, check out my Github projects portfolio but to sum it up I dabble in websites, web apps and mobile apps (IOS and Android).
-- ✨ Regarding  graphic design, I design UIs, Websites, logos, E-commerce product Packages and mockups.
+- ✨ Regarding  graphic design, I design UIs, Websites, logos, Social media posts, E-commerce product Packages and mockups.
 - 🌱 I’m have learnt all of the above languages and currently mastering some on the list.
 - 💞️ I’m looking to collaborate on any projects regarding the above programming languages or any fields mentioned above.
 - ✨ I don't use Linkedin, Instagram or any other social media platforms except as marketing Tools. I am exclusively on X.
