@@ -2,7 +2,7 @@
 - 👀 I’m interested and self-taught on python, SQL, Javascript, Typescript, Kotlin, Swift and Ruby.
 - 🌱 I am a Jack of all trades with expertise in Ecommerce, Digital Marketing, Software development and Graphic Design.
 - ✨ Regarding E-commerce I am an E-commerce Consultant consulting and offering services regarding Amazon,shopify and E-commerce Marketing overall.
-- ✨ Regarding Digital Marketing I am a  digital marketing specialist currently running two blogs an E-commerce and a Finance blog, keyword researching, copywriting ,running ads,optimizing SEO and Backlinks.
+- ✨ Regarding Digital Marketing I am a  digital marketing specialist currently running three blogs an E-commerce, Finance and a travel blog, keyword researching, copywriting ,running ads,optimizing SEO and Backlinks.
 - ✨ Regarding Software development, check out my Github projects portfolio.
 - ✨ Regarding  graphic design,I design logos and E-commerce product mockups. Visit my website to learn more about this skill.
 - 🌱 I’m have learnt all of the above languages and currently mastering some on the list.
