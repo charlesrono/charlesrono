@@ -1,12 +1,4 @@
 - 👋 Hi, I’m @charlesrono
-- 👀 I’m interested and self-taught on python, SQL, Java, R, Javascript, Typescript, Ruby and SQL.
-- 🌱 I am a Jack of all trades with expertise in Ecommerce, Digital Marketing, Data science, AI Engineering and Graphic Design.
-- ✨ Regarding E-commerce I am an E-commerce Consultant consulting and offering services regarding Amazon, Shopify and E-commerce Marketing overall.
-- ✨ Regarding Digital Marketing I am a  digital marketing specialist consulting and offering digital marketing services currently running  an E-commerce Blog, a  Finance blog and my Travel Blog.
-- ✨ Regarding Data Science and AI Engineering, check out my Github projects portfolio.
-- ✨ Regarding  graphic design, I design UIs, Websites, logos, Social media posts, E-commerce product Packages and mockups.
-- 🌱 I’m have learnt all of the above languages and currently mastering some on the list.
-- 💞️ I’m looking to collaborate on any projects regarding the above programming languages or any fields mentioned above.
-- ✨ I don't use Linkedin, Instagram or any other social media platforms except as marketing Tools. I am exclusively on X.
-- ✨ Reach out to me via  X, My Fiverr platforms, My Upwork platforms or my website.
-- 🌱 Looking forward to working with you on your next Software / Startup / SaaS / digital marketing / blog / Graphic design or Ecommerce project.
+- 👀 I’m self-taught on python, SQL, Java, R, Javascript, Typescript, Ruby and SQL.
+- 🌱 I have expertise in Data science and  AI Engineering reflected on my projects portfolio.
+- 🌱 Looking forward to working with you.
