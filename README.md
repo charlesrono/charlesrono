@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @charlesrono
-- 👀 I’m self-taught on python, SQL, Java, R, Javascript, Typescript, Ruby, Scala, Rust and SQL.
-- 🌱 I have expertise in Data science and  AI Engineering as reflected on my Github portfolio.
+- 🌱 I have expertise in Data science and  AI Engineering as reflected on my Github projects portfolio.
+- 👀 I’m self-taught on python, SQL, Java, Javascript, Typescript, Ruby, R, Scala, and Rust.
 - 🌱 Looking forward to working with you.
