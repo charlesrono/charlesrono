@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @charlesrono
-- 🌱 Expertise on AI Engineering and Software development as reflected on my Github projects portfolio.
-- 👀 I’m self-taught on python, Java, Javascript, Typescript, R, Scala and Julia. 
-- 🌱 Looking forward to working with you.
+- 🌱 Expertise on AI Engineering.
