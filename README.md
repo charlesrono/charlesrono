@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @charlesrono
-- 🌱 Expertise on AI Engineering.
+- 🌱 Interested in E-commerce
+- 🌱 Interested in Saas
