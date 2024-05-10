@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @charlesrono
-- 🌱 Interested in E-commerce
-- 🌱 Interested in Saas
+- 👋 Hi, I’m Charles Rono.
+- 🌱 I am interested in SaaS, E-commerce and Cloud Computing.
