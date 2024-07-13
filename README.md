@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Charles Rono.
-- 🌱 I am interested in SaaS, AI, AGI, Amazon FBA and Video editing.
+- 🌱 I am interested in E-commerce
