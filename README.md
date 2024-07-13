@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Charles Rono.
-- 🌱 I am interested in E-commerce
+- 🌱 I am interested and specialized in ONLY E-commerce
