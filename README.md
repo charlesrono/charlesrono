@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Charles Rono.
-- 🌱 I am interested and specialized in ONLY E-commerce
+- 🌱 I am interested in Saas , AI Engineering and currently learning eCommerce.
+- I have done over 6 Saas apps and 11 AI Language models
