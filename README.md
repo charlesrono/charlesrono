@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Charles Rono.
-- 🌱 I am interested in Saas ,AI Engineering and currently learning eCommerce.
+- 🌱 I am interested in Saas ,AI Engineering and always learning eCommerce.
 - 🚀 I have coded close to 40 failed Saas apps and the notable  creations are currently showcased on my Porfolio
 - ❌ I am a failed Saas entrepreneur - none of my Saas apps ever took off despite my best efforts
