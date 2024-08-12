@@ -2,3 +2,4 @@
 - 🌱 I am interested in Saas ,AI Engineering and always learning eCommerce.
 - 🚀 I have coded close to 40 failed Saas apps and the notable  creations are currently showcased on my Porfolio
 - ❌ I am a failed Saas entrepreneur - none of my Saas apps ever made me rich despite my best efforts
+- 🎯 Expertise - **Python,Java,Javascript,Typescript,C#,PHP,R,Julia,Haskell,Swift and Objective C**
