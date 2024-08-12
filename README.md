@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Charles Rono.
 - 🌱 I am interested in Saas ,AI Engineering and currently learning eCommerce.
-- 🚀 I have coded 3 Saas apps currently showcased on my Porfolio
+- 🚀 I have coded close to 300 failed Saas apps and the Operational ones are currently showcased on my Porfolio
