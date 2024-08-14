@@ -3,4 +3,4 @@
 - 🚀 I have coded time intensive long-term 40 failed Saas apps
 - ❌ I am a failed Saas entrepreneur - none of my Saas apps ever made me rich despite my best efforts and dedication.
 - 🎯 Languages - **Python,Java,Javascript,Typescript,C#,PHP,R,Julia,Haskell,Swift and Objective C**
-- 🚀📈 The final failed Saas app that made quit Saas and divert to eCommerce is showcased on my portolio
+- 🚀📈 The final Saas app that enabled me quit Saas and start eCommerce is showcased on my portolio
