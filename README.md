@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Charles Rono.
 - 🌱 Into Saas, AI Engineering and always learning eCommerce.
 - 🚀 I have tried time intensive long-term 40 failed Saas apps
-- ❌ I am a failed Saas entrepreneur - none of my Saas apps ever made me rich as ecommerce despite my best efforts and dedication.
 - 🎯 Languages - **Python,Java,Javascript,Typescript,C#,PHP,R,Julia,Haskell,Swift and Objective C**
 - 🚀📈 The final Saas app that enabled me quit Saas and start eCommerce is showcased on my portolio
