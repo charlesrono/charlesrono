@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Charles Rono.
-- 🌱 E-commerce + AI = Billionaire
+- 🌱 E-commerce + AI
