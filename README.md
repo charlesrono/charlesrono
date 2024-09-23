@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Charles Rono.
-- 🌱 Extremely passionate about eCommerce, Into Saas, AI Engineering (ML and Data Science) and always tinkering.
-- 🎯 Languages - **Python,Java,Javascript,Typescript,C#,PHP,R,Julia,Haskell,Swift and Objective C**
+- 🌱 E-commerce + AI = Billionaire
