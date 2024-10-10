@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Charles Rono.
-- 🌱 I love coding SaaS Startups & Applications.
+- 🌱 I love developing SaaS MVPs.
