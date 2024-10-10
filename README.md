@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Charles Rono.
-- 🌱 I love developing SaaS MVPs.
+- 🌱 I love building and Organically scaling SaaS MVPs and E-commerce Businesses.
