@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Charles Rono.
-- 🌱I love building & Marketing E-commerce Businesses.
+- 🌱I love building & Marketing E-commerce Businesses and DTC E-commerce SaaS apps.
